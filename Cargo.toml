@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-rootkit-detection"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS rootkit-detection component - security"
+
+[lib]
+name = "rootkit_detection"
+path = "src/lib.rs"
