@@ -3,7 +3,7 @@ name = "SigmaOS-rootkit-detection"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rootkit-detection component"
+description = "Rootkit Detection"
 upstream = []
 
 [contract]
